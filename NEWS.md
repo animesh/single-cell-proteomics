@@ -1,5 +1,11 @@
 # scp 1.19
 
+## scp 1.19.5
+
+- Update Seqinfo-holding serialized object(s) to reflect new location
+  of Seqinfo class definition (the class was recently moved from
+  GenomeinfoDb to the new Seqinfo package). Hervé Pagès
+
 ## scp 1.19.4
 
 - Update scplainer reference.
